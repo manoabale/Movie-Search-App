@@ -1,0 +1,13 @@
+body {
+  background: #0f172a;
+  color: #e5e7eb;
+  font-family: system-ui;
+  padding: 20px;
+}
+
+.card {
+  background: #1f2937;
+  padding: 16px;
+  border-radius: 12px;
+  margin-top: 20px;
+}
